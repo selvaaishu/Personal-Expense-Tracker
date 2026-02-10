@@ -1,0 +1,9 @@
+---
+
+## Tools and Technologies Used
+- Python
+- Pandas
+- Matplotlib
+
+---
+This project demonstrates a complete data analysis pipeline including loading, cleaning, analyzing, visualizing, and summarizing personal expense data. The insights generated can help improve financial planning and budgeting decisions.
